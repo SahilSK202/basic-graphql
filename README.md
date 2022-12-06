@@ -1,3 +1,3 @@
-# lco-graphql
-A standard babel setup
-Starter project setup for upcoming crash courses
+# Basic-graphql
+
+https://youtu.be/_Zss2Mbz4Bs - Hitesh Choudhary
